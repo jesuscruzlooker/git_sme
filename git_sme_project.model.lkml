@@ -15,6 +15,8 @@ datagroup: git_sme_project_default_datagroup {
 
 #editing my Model file in GITHUB UI
 #
+#det
+#est
 #adding lines for a merge
 #new line
 
@@ -22,6 +24,8 @@ datagroup: git_sme_project_default_datagroup {
 #testing merge
 
 persist_with: git_sme_project_default_datagroup
+
+
 
 explore: github_nested_copy {
   join: github_nested_copy__actor_attributes {
