@@ -14,6 +14,7 @@ datagroup: git_sme_project_default_datagroup {
 #change
 
 #editing my Model file in GITHUB UI
+#new line
 
 persist_with: git_sme_project_default_datagroup
 
