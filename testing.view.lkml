@@ -6,7 +6,8 @@ view: municipal_sf_requests_v2 {
     sql: ${TABLE}.agency_name ;;
   }
 
-  dimension: category {
+
+  dimension: category2 {
     type: string
     sql: ${TABLE}.category ;;
   }
