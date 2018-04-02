@@ -16,6 +16,9 @@ datagroup: git_sme_project_default_datagroup {
 #editing my Model file in GITHUB UI
 #new line
 
+
+#testing merge
+
 persist_with: git_sme_project_default_datagroup
 
 explore: github_nested_copy {
