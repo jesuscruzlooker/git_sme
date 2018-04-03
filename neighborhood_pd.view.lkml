@@ -1,7 +1,19 @@
 view: neighborhood_pd {
   sql_table_name: sf_thesis.neighborhood_pd ;;
 
+
+
+  dimension: neighborhood_group3 {
+    type: string
+    sql: ${TABLE}.neighborhood_group ;;
+  }
+  
   dimension: neighborhood_group {
+    type: string
+    sql: ${TABLE}.neighborhood_group ;;
+  }
+  
+    dimension: neighborhood_group2 {
     type: string
     sql: ${TABLE}.neighborhood_group ;;
   }
